@@ -54,8 +54,9 @@ nav ul li {
   background-color: #007bff;
   color: white;
   border: none;
-  padding: 10px 20px;
+  padding: 15px 25px;
   border-radius: 5px;
+  margin-top:440px;
 }
 
 .container {
@@ -285,7 +286,7 @@ ul li {
   display: inline-block;
   padding: 8px 18px;
   background: #16253b;
-  color:#fff;
+  color: #fff;
   border-radius: 30px;
   margin-bottom: 20px;
   font-size: 14px;
@@ -294,7 +295,7 @@ ul li {
 .section-header h2 {
   font-size: 42px;
   margin-bottom: 20px;
-    color:#fff;
+  color: #fff;
 }
 
 .section-header p {
@@ -371,7 +372,7 @@ ul li {
 .content h3 {
   margin-bottom: 12px;
   font-size: 24px;
-  color:#fff;
+  color: #fff;
 }
 
 .content p {
@@ -420,25 +421,25 @@ ul li {
   margin-bottom: 35px;
 }
 
-.footer-logo{
-    display: flex;
-    align-items: center;
-    gap: 12px;
+.footer-logo {
+  display: flex;
+  align-items: center;
+  gap: 12px;
 }
 
-.footer-logo img{
-    width: 50px;
-    height: 50px;
-    object-fit: contain;
+.footer-logo img {
+  width: 50px;
+  height: 50px;
+  object-fit: contain;
 }
 
-.footer-logo h1{
-    font-size: 24px;
-    font-weight: 700;
-    color: #fff;
-    margin: 0;
-    letter-spacing: 1px;
-    text-transform: uppercase;
+.footer-logo h1 {
+  font-size: 24px;
+  font-weight: 700;
+  color: #fff;
+  margin: 0;
+  letter-spacing: 1px;
+  text-transform: uppercase;
 }
 
 .social-links {
@@ -501,28 +502,27 @@ hr {
   .pricing-section h2 {
     font-size: 40px;
   }
-  .timeline::before{
-    left:32px;
-}
+  .timeline::before {
+    left: 32px;
+  }
 
-.timeline-item{
-    gap:18px;
-}
+  .timeline-item {
+    gap: 18px;
+  }
 
-.icon{
-    min-width:65px;
-    height:65px;
-    font-size:26px;
-}
+  .icon {
+    min-width: 65px;
+    height: 65px;
+    font-size: 26px;
+  }
 
-.section-header h2{
-    font-size:32px;
-}
+  .section-header h2 {
+    font-size: 32px;
+  }
 
-.content h3{
-    font-size:20px;
-    
-}
+  .content h3 {
+    font-size: 20px;
+  }
   .footer-top {
     flex-direction: column;
     gap: 20px;
